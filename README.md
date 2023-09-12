@@ -7,3 +7,5 @@ I study  **_software engineering_**.
 2.horseback riding
 3.Shooting
 4.programming	
+Thank you, his coach, for the good treatment
+===============
